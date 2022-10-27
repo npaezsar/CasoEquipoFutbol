@@ -2,6 +2,8 @@
 
 ## Enunciado
 
+????
+
 ## Diagrama de clases
 
 ![Diagrama de clases](casoFutbol.png "Diagrama de clases")
